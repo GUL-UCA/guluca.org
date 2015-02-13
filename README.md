@@ -1,2 +1,4 @@
 # guluca.org
-Website For GUL-UCA 
+Website For GUL-UCA community.
+
+Under develop at this moment.
